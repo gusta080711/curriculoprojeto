@@ -55,7 +55,7 @@ string qualificaçao;
 	Console.WriteLine("Apresete-nos suas habilidades e qualificações para o cargo");
 	qualificaçao: Console.ReadLine();
 	
-	Console.WriteLine("Obrigado pela preferência, em breve retornaremos:");
+	Console.WriteLine("Obrigado pela preferência, em breve retornaremos!");
 
 
 	Console.ReadKey().
